@@ -19,12 +19,14 @@ Esse projeto é uma recriação simples do clássico jogo Pong, desenvolvido em 
 
 ## 🚀 Como executar
 ##### 1. Clone o repositório:
-
+```
 git clone https://github.com/YunaKimari/Pong.git
+```
 
 ##### 2. Navegue até o diretório do projeto:
-
+```
 cd Pong
+```
 
 ##### 3. Abra o arquivo Pong.js em um navegador ou utilize um servidor local para executá-lo.
 
@@ -32,7 +34,8 @@ cd Pong
 Este projeto está licenciado sob a Licença MIT.
 
 ## 👤 Autor
-YunaKimari (Denise Rocha)
+- YunaKimari (Denise Rocha)
+- GitHub: github.com/YunaKimari
 
 ## Pong
 A small version based on Atari's classic Pong (1972) game.
@@ -55,12 +58,14 @@ This project is a simple recreation of the classic Pong game, developed in JavaS
 
 ## 🚀 How to run
 ##### 1. Clone the repository:
-
+```
 git clone https://github.com/YunaKimari/Pong.git
+```
 
 ##### 2. Navigate to the project directory:
-
+```
 cd Pong
+```
 
 ##### 3. Open the Pong.js file in a browser or use a local server to run it.
 
@@ -68,4 +73,5 @@ cd Pong
 This project is licenced under the MIT License.
 
 ## 👤 Author
-YunaKimari (Denise Rocha)
+- YunaKimari (Denise Rocha)
+- GitHub: github.com/YunaKimari
