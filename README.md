@@ -15,6 +15,7 @@ Esse projeto é uma recriação simples do clássico jogo Pong, desenvolvido em 
 - ponto.mp3: Som reproduzido quando um ponto é marcado.
 - raquetada.mp3: Som reproduzido quando a bola colide com uma raquete.
 - trilha.mp3: Trilha sonora de fundo durante o jogo.
+- README.md: Este arquivo (em português e em inglês).
 
 ## 🚀 Como executar
 ##### 1. Clone o repositório:
@@ -26,6 +27,9 @@ git clone https://github.com/YunaKimari/Pong.git
 cd Pong
 
 ##### 3. Abra o arquivo Pong.js em um navegador ou utilize um servidor local para executá-lo.
+
+## 📄 Licença
+Este projeto está licenciado sob a Licença MIT.
 
 ## 👤 Autor
 YunaKimari (Denise Rocha)
@@ -47,6 +51,7 @@ This project is a simple recreation of the classic Pong game, developed in JavaS
 - ponto.mp3: Sound played when a point is scored.
 - raquetada.mp3: Sound played when the ball hits a paddle.
 - trilha.mp3: Background music during the game.
+- README.md: This file (in Portuguese and in English).
 
 ## 🚀 How to run
 ##### 1. Clone the repository:
@@ -58,6 +63,9 @@ git clone https://github.com/YunaKimari/Pong.git
 cd Pong
 
 ##### 3. Open the Pong.js file in a browser or use a local server to run it.
+
+## 📄 License
+This project is licenced under the MIT License.
 
 ## 👤 Author
 YunaKimari (Denise Rocha)
