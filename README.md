@@ -37,6 +37,8 @@ Este projeto está licenciado sob a Licença MIT.
 - YunaKimari (Denise Rocha)
 - GitHub: github.com/YunaKimari
 
+---
+
 ## Pong
 A small version based on Atari's classic Pong (1972) game.
 
