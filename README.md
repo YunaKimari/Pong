@@ -56,7 +56,7 @@ This project is a simple recreation of the classic Pong game, developed in JavaS
 - `ponto.mp3`: Sound played when a point is scored.
 - `raquetada.mp3`: Sound played when the ball hits a paddle.
 - `trilha.mp3`: Background music during the game.
-- `README.md`: This file (in both Portuguese and English)
+- `README.md`: This file (in both Portuguese and English).
 
 ## 🚀 How to run
 ##### 1. Clone the repository:
