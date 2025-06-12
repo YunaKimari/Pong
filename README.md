@@ -11,11 +11,11 @@ Esse projeto é uma recriação simples do clássico jogo Pong, desenvolvido em 
 - Efeitos sonoros para eventos como batida na bola e pontuação.
 
 ## 📁 Estrutura do projeto
-- Pong.js: Arquivo principal contendo a lógica do jogo.
-- ponto.mp3: Som reproduzido quando um ponto é marcado.
-- raquetada.mp3: Som reproduzido quando a bola colide com uma raquete.
-- trilha.mp3: Trilha sonora de fundo durante o jogo.
-- README.md: Este arquivo (em português e em inglês).
+- `Pong.js`: Arquivo principal contendo a lógica do jogo.
+- `ponto.mp3`: Som reproduzido quando um ponto é marcado.
+- `raquetada.mp3`: Som reproduzido quando a bola colide com uma raquete.
+- `trilha.mp3`: Trilha sonora de fundo durante o jogo.
+- `README.md`: Este arquivo (em português e em inglês).
 
 ## 🚀 Como executar
 ##### 1. Clone o repositório:
@@ -52,11 +52,11 @@ This project is a simple recreation of the classic Pong game, developed in JavaS
 - Sound effects for events like hitting the ball and scoring.
 
 ## 📁 Project structure
-- Pong.js: Main file containing the game logic.
-- ponto.mp3: Sound played when a point is scored.
-- raquetada.mp3: Sound played when the ball hits a paddle.
-- trilha.mp3: Background music during the game.
-- README.md: This file (in Portuguese and in English).
+- `Pong.js`: Main file containing the game logic.
+- `ponto.mp3`: Sound played when a point is scored.
+- `raquetada.mp3`: Sound played when the ball hits a paddle.
+- `trilha.mp3`: Background music during the game.
+- `README.md`: This file (in both Portuguese and English)
 
 ## 🚀 How to run
 ##### 1. Clone the repository:
