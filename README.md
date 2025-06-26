@@ -1,4 +1,4 @@
-## Pong
+## Pong ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow?logo=javascript)
 Uma pequena versão baseada no jogo Pong (1972) do Atari.
 
 ## 🎮 Sobre o projeto
@@ -39,7 +39,7 @@ Este projeto está licenciado sob a Licença MIT.
 
 ---
 
-## Pong
+## Pong ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow?logo=javascript)
 A small version based on Atari's classic Pong (1972) game.
 
 ## 🎮 About the project
